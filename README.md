@@ -1,7 +1,7 @@
 ## 🙋🏻‍♀️ Hello, I’m Dipshi 
 
 
-![Brown and Gray Simple Personal LinkedIn Banner](https://github.com/katiehuangx/katiehuangx/assets/81607668/bad4dc56-1211-41ed-99a7-1bccea77bd72)
+![Brown and Gray Simple Personal LinkedIn Banner]([https://github.com/katiehuangx/katiehuangx/assets/81607668/bad4dc56-1211-41ed-99a7-1bccea77bd72](https://github.com/dipshisingh31/Myfiles/assets/94697832/46a6e340-6f6c-4052-99a6-1ab69154af10))
 
 
 **About me:**   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am  a database and visualization specialist who is passionate about Information system solutions and data insights via easy to understand dashboards.\
