@@ -1,7 +1,7 @@
 ## 🙋🏻‍♀️ Hello, I’m Dipshi 
 
 
-<img src="https://github.com/dipshisingh31/Myfiles/assets/94697832/46a6e340-6f6c-4052-99a6-1ab69154af10"
+<img src="https://github.com/dipshisingh31/Myfiles/assets/94697832/d29ce087-52d2-4679-8a43-283ec8a55d8f"
      alt="My banner"
      style="float: left; margin-right: 10px;" />
 
