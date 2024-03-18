@@ -18,7 +18,7 @@
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my [Tableau projects](https://github.com/xxxxxx/Portfolio-Guide/blob/main/README.md).
+Welcome to my portfolio, where I showcase my [Tableau projects](https://github.com/dipshisingh31/Portfolio_Guide/blob/main/README.md).
 
 ### 🛠️ Tools
 
