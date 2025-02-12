@@ -24,8 +24,10 @@ Welcome to my Projects hub, here is my Portfolio guide where I showcase all my [
 
 **Languages:**			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SQL, Python, JAVA, JavaScript\
 **Databases:**			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My SQL, SQL Server, Oracle, PL/SQL\
-**Tools:**	        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advanced Excel, Tableau, Power BI, Rally, SQL Server Management Studio, MS Office, MS Access, Visual Studio, JIRA\
-**Framework:**	    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Agile Methodology
+**Tools:**	        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advanced Excel, SSIS, Tableau, Power BI, Rally, SQL Server Management Studio (SSMS), MS Office, MS Access, JIRA\
+**Framework:**	    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Agile Methodology\
+**Business Ops.:**	    &nbsp;&nbsp;&nbsp;Requirements gathering & documentation (BRDs), User Acceptance Testing (UATs) 
+
 
 
 ### 👋🏻 Connect with Me
