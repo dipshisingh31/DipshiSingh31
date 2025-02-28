@@ -5,9 +5,9 @@
      alt="My banner"
      style="float: left; margin-right: 10px;" />
 
-**About me:**   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am  a database and visualization specialist who is passionate about Information system solutions and data insights via easy to understand dashboards.\
-**Expertise:**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Working with large and complex data sets, extracting insights, building narratives to solve problems and take better decisions.\
-**Experience:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Be it database design or optimization, automation of data flows, removing redundancies, providing data warehouse solutions or combining enterprise analytics solution into worksheets, dashboards, I have hands on experience in my work assignments.
+**About me:**   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am  a database and visualization specialist who is passionate about Information system solutions and data insights via easy to understand dashboards and SQL queries. I am working on some self-projects in my free time to keep my skills up to date while I am trasistioning to the new environment in the United States.\
+**Expertise:**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Working with large and complex data sets, extracting insights, building narratives to solve problems and take better decisions. Be it database design or optimization, automation of data flows, removing redundancies or combining enterprise analytics solution into worksheets, dashboards.\
+**Experience:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am an experienced Business Intelligence Analyst having worked with Health insurance, Consumer goods datasets and knowledge of these industries. 
 
 
 **Skillset:** 
