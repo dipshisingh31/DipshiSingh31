@@ -18,7 +18,7 @@
 
 ### 📚 Projects
 
-Welcome to my Projects hub, here is my Portfolio guide where I showcase all my [Data Science projects](https://github.com/dipshisingh31/Portfolio_Guide/blob/main/README.md).
+Welcome to my Projects hub, here is my Portfolio guide where I showcase my [Data Analytics Projects](https://github.com/dipshisingh31/Portfolio_Guide/blob/main/README.md).
 
 ### 🛠️ Tools
 
